@@ -1,1 +1,1 @@
-# Practical-ML-coursera
+# coursera-practical-ml
